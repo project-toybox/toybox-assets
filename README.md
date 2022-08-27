@@ -4,7 +4,7 @@
 
 <p align="center">
     <h1 align="center">
-        <img src="https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png" width="50" height="50">
+        <a href="_blank"><img src="https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png" width="50" height="50"></a>
         <p>Toybox Asset</p>
     </h1>
     <p align="center">Essential assets for Toybox components</p>
