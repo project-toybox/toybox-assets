@@ -12,8 +12,8 @@
 </p>
 
 ## Contents
- * Datasets(for Agents, Manager, SFX, ICS, etc...)
+ * Datasets
  * Images
 
 ## License
-The contents are available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+The contents are freely available under the [MIT License](http://opensource.org/licenses/MIT).
