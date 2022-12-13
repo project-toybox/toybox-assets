@@ -3,7 +3,7 @@
         <img src="https://raw.githubusercontent.com/project-toybox/toybox-assets/main/images/toybox-icon.png" width="50" height="50">
         <p>Toybox Assets</p>
     </h1>
-    <p align="center">Essential assets for Toybox components</p>
+    <p align="center"><b>Essential assets for Toybox components</b></p>
     <p align="center">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-assets">
         <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-assets">
