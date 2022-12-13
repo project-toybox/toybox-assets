@@ -5,8 +5,8 @@
     </h1>
     <p align="center"><b>Essential assets for Toybox components</b></p>
     <p align="center">
-        <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-assets">
-        <img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-assets">
+        <a target="_blank" href="https://github.com/project-toybox/toybox-assets/commits/main"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/project-toybox/toybox-assets"></a>
+        <a target="_blank" href="https://github.com/project-toybox/toybox-assets/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/project-toybox/toybox-assets"></a>
     </p>
 </p>
 
