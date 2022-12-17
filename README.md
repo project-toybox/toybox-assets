@@ -10,6 +10,9 @@
     </p>
 </p>
 
+## Introduction
+Toybox Assets is a repository which provides essential assets for Toybox components. 
+
 ## Contents
  * Datasets
  * Images
